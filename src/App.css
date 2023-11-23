@@ -36,3 +36,40 @@
     transform: rotate(360deg);
   }
 }
+.container{
+  width:30%;
+  margin:10px auto;
+  border:1px solid black;
+  padding:15px;
+  
+}
+.row{
+  width:100%;
+}
+.form-control{
+  width:96%;
+  padding:5px;
+}
+.left{
+  width:50%;
+  float:left;
+  margin-bottom: 10px;
+}
+.right{
+  width:50%;
+}
+.button{
+  background-color: green;
+  color:white;
+  border:none;
+  padding:5px
+}
+
+.table{
+  width:40%;
+  margin:0px auto;
+  border:1px solid black;
+}
+.table td{
+  border:1px solid black;
+}
